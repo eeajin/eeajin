@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ... SSAFY
 
-I love strawberry !!!
+### Name : Ye Jin seo
+
+### 🌱 I’m currently learning ... Python!
+### 📫 How to reach me: leolovejin@naver.com
 
 <!--
 **eeajin/eeajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
